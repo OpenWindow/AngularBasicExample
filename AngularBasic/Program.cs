@@ -15,7 +15,7 @@ namespace AngularBasic
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
-        
+         // adding comment to test branch only
         }
 
         public static IWebHost BuildWebHost(string[] args) =>

@@ -14,6 +14,13 @@ namespace AngularBasic
     {
         public static void Main(string[] args)
         {
+            // this is a comment single line
+            // sdfsdf
+
+            /* 
+              this is a multiline
+              comment
+             */
             BuildWebHost(args).Run();
         }
 

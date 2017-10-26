@@ -15,6 +15,8 @@ namespace AngularBasic
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
+            // another change for git training
+        
         }
 
         public static IWebHost BuildWebHost(string[] args) =>

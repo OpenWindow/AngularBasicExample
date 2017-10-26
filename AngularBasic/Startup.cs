@@ -42,6 +42,8 @@ namespace AngularBasic
             }
 
             app.UseStaticFiles();
+            
+            // explaining git and github concepts to wify..
 
             app.UseMvc(routes =>
             {
